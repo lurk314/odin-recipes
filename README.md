@@ -1,1 +1,2 @@
 # odin-recipes
+    Hi, this is my HTML webpage I'm using to showcase my understanding of the HTML format and functions. I'm also showing that I have the basic skills to build something working and functional starting from nothing and able to publish it on github for anyone to see and give feed back.
